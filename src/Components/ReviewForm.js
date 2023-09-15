@@ -16,6 +16,8 @@ const ReviewForm = () => {
     setReviewText('');
   };
 
+  //This is where the reviews are rendered.
+
   return (
     <div>
       <h5>Leave a Review</h5>
